@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(246, 166, 219);
+    width: 1435px;
+   height: 840px;
+   overflow-x: hidden;
+   overflow-y:hidden;
+   border: 2px solid #020202;
+ }
+
+
+header{
+  width: 1436px;
+  margin-top: 0;
+  height: 210px;
+  background-color: rgb(255, 94, 201);
+  border: 2px solid #020202;
+  overflow-x: hidden;
+  overflow-y:hidden;
+}
+
+#search{
+  width: 1436px;
+  margin-top: 1px;
+  height: 40px;
+  font-size: 30px;
+  background-color: rgb(243, 110, 199);
+  border: 2px solid #020202;
+  overflow-x: hidden;
+  overflow-y:hidden;
+}
+
+button{
+  height: 25px;
+  font-size: 20px;
+}
+
+#allPokemon{
+  position: fixed;
+  width: 1435px;
+  height: 570px;
+  overflow-y:auto;
+  overflow-x: hidden;
+}
+
+pre{
+  float: left;
+  width: 450px;
+  padding: 4px;
+  font-size: 25px;
+  height: 280px;
+}
+
+#poke{
+  width: 200px;
+  height: 150px;
+}
+
+h1{
+  font-size: 30px;
+}
+ 
+ label{
+   font-size: 20px;
+ }
+ 
+ input{
+     font-size: 30px;
+ }
+
+ 
